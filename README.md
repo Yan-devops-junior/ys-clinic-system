@@ -67,6 +67,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Project Status
 
-This repository contains a work-in-progress company profile website for Base Battery. The project is actively being developed and refined.
+This repository contains a work-in-progress clinic information system based on laravel. The project is actively being developed and refined.
 
 **Important Notice:** As this project is in development phase, the codebase and features are subject to regular changes and improvements. Please check back regularly for updates.
